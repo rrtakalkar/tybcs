@@ -51,6 +51,7 @@ class Addtest {
         t1.multi();
         t1.div();
         
+        
       int result = t1.substract_test(10, 20);
         System.out.println("Subsctraction Test result =>" + result);
         int result1 = t1.sum_test(30, 40);
